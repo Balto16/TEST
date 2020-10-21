@@ -1,2 +1,2 @@
-# test.github.io
+# test
 Testing how to use github - just avoid
